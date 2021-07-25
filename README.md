@@ -14,14 +14,6 @@
     </p>
     <div class="footer">
        <table>
-        <tr>
-          <th>
-            Title
-          </th>
-          <th>
-            Link
-          </th>
-        </tr>
          <tr>
           <td>
             Chartdownloader
