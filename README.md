@@ -9,11 +9,14 @@
         Welcome to QJLU404's Github!
       </h1>
     </div>
-    <p id="mainp">
-      Some projects to check out:
+    <p>
     </p>
     <div class="footer">
        <table>
+         <tr>
+           <th>Some Projects to Check Out</th>
+           <th></th>
+         </tr>
          <tr>
           <td>
             Chartdownloader
