@@ -63,7 +63,7 @@
          </tr>
          <tr>
           <td>
-            This Page on Github.io
+            This Page copied from Github.io
           </td>
           <td>
             <a href="http://qjlu404.github.io"> qjlu404.github.io </a>
@@ -81,8 +81,5 @@
         Discord: <strong>jean#0007</strong><br>
         Friend's guild that i'm in: <a href="https://discord.gg/2uZS5N8tCS">discord.gg/2uZS5N8tCS</a>
       </p>
-      <h4>
-        noticed the illusion?
-      </h4>
   </body>
 </html>
