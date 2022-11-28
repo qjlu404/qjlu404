@@ -41,7 +41,7 @@
         </tr>
         <tr>
           <td>
-            eas encoder (for learning c# c++ interop)
+            eas encoder and decoder
           </td>
           <td>
             <a href="https://github.com/qjlu404/psame-endec">/psame-endec</a>
