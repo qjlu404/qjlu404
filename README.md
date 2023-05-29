@@ -33,22 +33,6 @@
         </tr>
         <tr>
           <td>
-            Attempt at making a game lmao
-          </td>
-          <td>
-            <a href="https://github.com/qjlu404/penguingame">/penguingame</a>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            eas encoder and decoder
-          </td>
-          <td>
-            <a href="https://github.com/qjlu404/psame-endec">/psame-endec</a>
-          </td>
-        </tr>
-        <tr>
-          <td>
             burst fire program
           </td>
           <td>
