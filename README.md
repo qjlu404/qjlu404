@@ -29,7 +29,7 @@
         </tr>
       <tr>
         <td>submarine game thing</td>
-        <td> <a href="https://github.com.qjlu404/freedom"> /freedom </a>   </td>
+        <td> <a href="https://github.com/qjlu404/freedom"> /freedom </a>   </td>
       </tr>
       </table>
       </meta>
