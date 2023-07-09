@@ -16,29 +16,21 @@
        <th>Github.com/qjlu404...</th>
       </tr>
       <tr>
-        <td>
-          Chartdownloader
-        </td>
-        <td>
-          <a href=https://github.com/qjlu404/chartdownloader>/chartdownloader</a>
-         </td>   
-       </tr>
+        <td> Chartdownloader </td>
+        <td> <a href=https://github.com/qjlu404/chartdownloader>/chartdownloader</a> </td>   
+      </tr>
         <tr>
-          <td>
-            Stall Helper Plugin
-          </td>
-          <td>
-            <a href="https://github.com/qjlu404/stallhelper">/stallhelper</a>
-          </td>
+          <td> Stall Helper Plugin </td>
+          <td> <a href="https://github.com/qjlu404/stallhelper">/stallhelper</a> </td>
         </tr>
         <tr>
-          <td>
-            burst fire program
-          </td>
-          <td>
-            <a href="https://github.com/qjlu404/burst-fire"> /burst-fire </a>
-          </td>
+          <td> burst fire program </td>
+          <td> <a href="https://github.com/qjlu404/burst-fire"> /burst-fire </a> </td>
         </tr>
+      <tr>
+        <td>submarine game thing</td>
+        <td> <a href="https://github.com.qjlu404/freedom"> /freedom </a>   </td>
+      </tr>
       </table>
       </meta>
       <p>
