@@ -27,10 +27,6 @@
           <td> burst fire program </td>
           <td> <a href="https://github.com/qjlu404/burst-fire"> /burst-fire </a> </td>
         </tr>
-      <tr>
-        <td>submarine game thing</td>
-        <td> <a href="https://github.com/qjlu404/freedom"> /freedom </a>   </td>
-      </tr>
       </table>
       </meta>
       <p>
