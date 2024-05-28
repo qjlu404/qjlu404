@@ -28,11 +28,7 @@
           <td> <a href="https://github.com/qjlu404/burst-fire"> /burst-fire </a> </td>
         </tr>
       </table>
-      </meta>
-      <p>
-       Chartdownloader, Stall Helper Plugin, and burst fire program are the ones that fully work<br>
-       eas encoder only kinda works.
-      </p>
+      </meta
       <hr>
       <h1>
         How to Reach me: 
