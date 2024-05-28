@@ -30,12 +30,5 @@
       </table>
       </meta
       <hr>
-      <h1>
-        How to Reach me: 
-    </h1>
-    <p>
-      Discord: <strong>jean#0007</strong><br>
-      Cool server: <a href="https://discord.gg/2uZS5N8tCS">Nerd's Server</a><br>
-    </p>
   </body>
 </html>
